@@ -1,0 +1,6 @@
+C:\Users\ND602374\Desktop\10311221BigData homework\lab-2-zi-chuan-chu-li-eftgy2458\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\ND602374\Desktop\10311221BigData homework\lab-2-zi-chuan-chu-li-eftgy2458\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\ND602374\Desktop\10311221BigData homework\lab-2-zi-chuan-chu-li-eftgy2458\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\ND602374\Desktop\10311221BigData homework\lab-2-zi-chuan-chu-li-eftgy2458\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\ND602374\Desktop\10311221BigData homework\lab-2-zi-chuan-chu-li-eftgy2458\lab2\lab2\obj\Debug\lab2.pdb
+C:\Users\ND602374\Desktop\10311221BigData homework\lab-2-zi-chuan-chu-li-eftgy2458\lab2\lab2\obj\Debug\lab2.csprojResolveAssemblyReference.cache
